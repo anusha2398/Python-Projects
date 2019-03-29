@@ -1,4 +1,4 @@
-num = 2000
+num = 20
 
 if num > 50:
 	print("num is less than 50")
