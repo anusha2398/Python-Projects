@@ -1,0 +1,6 @@
+print ("Baa, baa, black sheep, have you any wool?")
+print ("\t Yes sir, yes sir, three bags full!\n\n")
+print ("\t one for my master,")
+print ("\t\t and one for the dame")
+print ("\t\t\t one for the little boy")
+print ("\t\t\t who lives down the lane")
